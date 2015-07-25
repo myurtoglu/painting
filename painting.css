@@ -1,0 +1,40 @@
+body {
+    background-color: #A9A9A9;
+    margin: 1% 20%;
+    border: 1px dotted black;
+    border-radius: 15px;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+canvas {
+    display: block;
+    margin: 20px auto;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: -2px 2px 3px White;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+input[type="range"] {
+    width: 275px;
+}
+
+#lineWidthSlider {
+    margin: 0px 0px 10px 20px;
+}
+
+#colorInput {
+    margin-left: 35px;
+}
+
+#canvasColorInput {
+    margin: 0px 0px 20px 35px;
+}
+
+#menu {
+    padding: 5px;
+    text-align: center;
+}
